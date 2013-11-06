@@ -1,0 +1,13 @@
+Reference,Description,Quantity
+LED2,Vishay VLMB1500-GS08,1
+LED3,Vishay VLMS1500-GS08,1
+C1,TDK C0603X5R0J104K030BC,1
+R1,Generic Resistor,1
+SW1,Omron B3U-1000P,1
+R3,Generic Resistor,1
+LED1,Vishay VLMG1500-GS08,1
+U1,Atmel ATTINY10-TSHR,1
+R4,Generic Resistor,1
+J2,Samtec SSW-106-01-X-S,1
+R2,Generic Resistor,1
+J1,Molex 0015912060,1
